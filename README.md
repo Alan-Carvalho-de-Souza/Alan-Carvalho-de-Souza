@@ -1,7 +1,7 @@
 ### Olá, meu nome é Alan Carvalho e seja bem-vindo(a) ao meu perfil do github!</br>
 
 
-💻 Trabalho atualmente com Testes
+💻 Atualmente trabalho com Testes
 <br>
 📘 Estudando python
 ##
