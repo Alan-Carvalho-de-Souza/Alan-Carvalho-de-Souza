@@ -6,11 +6,12 @@
 
 ##
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[![Alan-Carvalho-de-Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-carvalho-de-souza&show_icons=true&theme=dracula)](https://github.com/alan-carvalho-de-ssouza/github-readme-stats)
 
 ##
 
-[![Alan-Carvalho-de-Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-carvalho-de-souza)](https://github.com/alan-carvalho-de-ssouza/github-readme-stats)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 
 <div> 
   <a href="https://www.instagram.com/_carvalhooalan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
