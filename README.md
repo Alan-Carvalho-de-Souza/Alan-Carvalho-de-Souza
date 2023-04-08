@@ -6,15 +6,11 @@
 
 ##
 
-# GitHub CLI api
-# https://cli.github.com/manual/gh_api
-
-gh api \
-  -H "Accept: application/vnd.github+json" \
-  -H "X-GitHub-Api-Version: 2022-11-28" \
-  /repos/OWNER/REPO/stats/code_frequency
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 ##
+
+[![Alan-Carvalho-de-Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-carvalho-de-souza)](https://github.com/alan-carvalho-de-ssouza/github-readme-stats)
 
 <div> 
   <a href="https://www.instagram.com/_carvalhooalan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
