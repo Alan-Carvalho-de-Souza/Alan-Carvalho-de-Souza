@@ -6,10 +6,13 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlan-Carvalho-de-Souzaanuraghazra)](https://github.com/Alan-Carvalho-de-Souza/github-readme-stats)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /repos/OWNER/REPO/stats/code_frequency
 
 ##
 
