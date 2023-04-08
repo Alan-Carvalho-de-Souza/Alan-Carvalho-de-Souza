@@ -12,6 +12,8 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-carvalho-de-souza&show_icons=true&theme=dracula)](https://github.com/alan-carvalho-de-souza/github-readme-stats)
+
 <div> 
   <a href="https://www.instagram.com/_carvalhooalan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alan.carvalhosouza96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
